@@ -1,1 +1,2 @@
 # Printing-Hello-World
+This is was one of my first and fun project in python. One day, while scrolling insta reels, I saw a python small project which printed the input text in a fancy raining affect kind of. So, just thought of recreating it and ended up with this final code. I know that code is not that professional but what do you expect from a learner who wrote this code in his first semester.
